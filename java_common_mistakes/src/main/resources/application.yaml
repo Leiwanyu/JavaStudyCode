@@ -1,0 +1,49 @@
+#server:
+#  tomcat:
+#    threads:
+#      max: 1
+spring:
+  application:
+    name: java-common-mistakes
+  datasource:
+    type: com.zaxxer.hikari.HikariDataSource
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/test?useUnicode=true&characterEncoding=utf-8&useSSL=false&autoReconnect=true&failOverReadOnly=false
+    username: root
+    password: Wahaha@123
+    hikari:
+      minimum-idle: 5
+      #空闲链接存活最大时间，默认600000（10分钟）
+      idle-timeout: 180000
+      maximum-pool-size: 10
+      connection-test-query: SELECT 1
+      connection-timeout: 3000
+clientsdk:
+  ribbon:
+    listOfServers: localhost:8080,localhost:8081
+smsClient:
+  ribbon:
+    listOfServers: localhost:8080,localhost:8081
+
+      #feign:
+      #  client:
+      #    config:
+      #Feign 客户端默认的两个全局超时时间 ,map，必须两个超时同时配置，否则不生效
+      #     default.readTimeout: 3000
+      #     default.connectTimeout: 3000
+    #Feign 单独客户端设置超时时间，单独超时时间覆盖全局超时
+#      clientsdk.readTimeout: 2000
+#      clientsdk.connectTimeout: 2000
+
+#配置Ribbon超时，注意大小写。同时配置ribbon和feign的时候，feign生效       t
+ribbon:
+  ReadTimeout: 1000
+  ConnectTimeout: 1000
+  #  默认情况下，Ribbon会在下一个服务端节点重试1次Get请求，因此不想要重试的话，设置参数为0或者使用POST请求。况且有状态的API接口不应该定义为Get
+  MaxAutoRetriesNextServer: 0
+  MaxAutoRetries: 0
+server:
+  port: 8080
+logging:
+  level:
+    org.springframework.orm.jpa: DEBUG
