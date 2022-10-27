@@ -4,7 +4,70 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df991a1d-fb6a-47b1-9d14-39e066c4d7a0" name="Default Changelist" comment="" />
+    <list default="true" id="df991a1d-fb6a-47b1-9d14-39e066c4d7a0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../java_common_mistakes/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_common_mistakes/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_common_mistakes/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_common_mistakes/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_common_mistakes/httpRequests/2022-08-11T171623.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_common_mistakes/httpRequests/http-client.cookies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_common_mistakes/httpRequests/http-requests-log.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_common_mistakes/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_common_mistakes/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_common_mistakes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_common_mistakes/src/main/java/com/lendea/java_common_mistakes/Interceptor/UserInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_common_mistakes/src/main/java/com/lendea/java_common_mistakes/JavaCommonMistakesApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_common_mistakes/src/main/java/com/lendea/java_common_mistakes/config/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_common_mistakes/src/main/java/com/lendea/java_common_mistakes/config/SmsClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_common_mistakes/src/main/java/com/lendea/java_common_mistakes/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_common_mistakes/src/main/java/com/lendea/java_common_mistakes/controller/ClientReadTimeoutController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_common_mistakes/src/main/java/com/lendea/java_common_mistakes/controller/FeignAndRibbonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_common_mistakes/src/main/java/com/lendea/java_common_mistakes/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_common_mistakes/src/main/java/com/lendea/java_common_mistakes/controller/ThreadController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_common_mistakes/src/main/java/com/lendea/java_common_mistakes/controller/TransactionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_common_mistakes/src/main/java/com/lendea/java_common_mistakes/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_common_mistakes/src/main/java/com/lendea/java_common_mistakes/repostiory/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_common_mistakes/src/main/java/com/lendea/java_common_mistakes/service/SubUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_common_mistakes/src/main/java/com/lendea/java_common_mistakes/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_common_mistakes/src/main/java/com/lendea/java_common_mistakes/utils/AccessCountUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_common_mistakes/src/main/java/com/lendea/java_common_mistakes/utils/UserUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_common_mistakes/src/main/resources/application-test.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_common_mistakes/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_common_mistakes/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_common_mistakes/src/test/java/com/lendea/java_common_mistakes/ArrayListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_common_mistakes/src/test/java/com/lendea/java_common_mistakes/JavaCommonMistakesApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_common_mistakes/src/test/java/com/lendea/java_common_mistakes/NumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_common_mistakes/src/test/java/com/lendea/java_common_mistakes/thread/DeadThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_common_mistakes/src/test/java/com/lendea/java_common_mistakes/thread/ThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_design_pattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lendea/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lendea/chain/ChainDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lendea/chain/ChainDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lendea/chain/SensitiveWordChainDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lendea/chain/SensitiveWordFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lendea/strategy/ClassicDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lendea/strategy/UserDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lendea/template_method/CallbackDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lendea/template_method/ClassicDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lendea/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lendea/template_method/AbstractClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lendea/template_method/BClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lendea/template_method/CallbackDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lendea/template_method/CallbackDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lendea/template_method/ClassicDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lendea/template_method/ContreteClass1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lendea/template_method/ContreteClass2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lendea/template_method/ICallBack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,15 +96,55 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.import.settings.migrated" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.CallbackDemo">
+  <component name="RunManager" selected="Application.SensitiveWordChainDemo">
     <configuration name="CallbackDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lendea.template_method.CallbackDemo" />
       <module name="java_design_pattern" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.lendea.template_method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChainDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lendea.chain.ChainDemo1" />
+      <module name="java_design_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lendea.chain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassicDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lendea.strategy.ClassicDemo" />
+      <module name="java_design_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lendea.strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SensitiveWordChainDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lendea.chain.SensitiveWordChainDemo" />
+      <module name="java_design_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lendea.chain.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,6 +178,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SensitiveWordChainDemo" />
+        <item itemvalue="Application.ChainDemo1" />
+        <item itemvalue="Application.ClassicDemo" />
         <item itemvalue="Application.CallbackDemo" />
         <item itemvalue="Application.TemplateMethod2" />
       </list>
@@ -88,7 +194,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660706750345</updated>
-      <workItem from="1660706751762" duration="4316000" />
+      <workItem from="1660706751762" duration="13215000" />
     </task>
     <servers />
   </component>
